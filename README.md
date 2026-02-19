@@ -4,7 +4,7 @@ An end-to-end data visualization project which analyse student performance facto
 Professional Context:
 This project was developed as Task 3 during my internship at CodeAlpha. The objective was to move beyond basic reporting and create a strategic tool that identifies actionable patterns in student performance data to assist educational stakeholders.
 
-Dashboard overview:![Image alt]()
+Dashboard overview:![Image alt](https://github.com/srushtibharti15/Codealpha-Data-visualization/blob/b1059ae2f240225737b351f81d70189c173a0fdf/Screenshot%202026-02-19%20191806.png)
 
 Task Objectives:
 Correlation Mapping: Identifying the statistical relationship between study hours and final exam outcomes.
@@ -32,3 +32,10 @@ Consistency vs. Results: A clear positive trend between study hours and higher s
 The Motivation Factor: High motivation levels consistently correlate with a significant percentage increase in average performance.
 
 Resource Access: Analysis of how digital access (Internet) impacts the effectiveness of independent study hours.
+
+Repository Contents:
+DescriptionStudentPerformanceFactors.csv:The raw dataset used for the analysis.
+
+task3.pbix :The source file for the interactive dashboard.
+
+task3 report.docx: Comprehensive documentation of methodology and findings.
