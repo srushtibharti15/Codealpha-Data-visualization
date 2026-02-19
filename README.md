@@ -34,6 +34,7 @@ The Motivation Factor: High motivation levels consistently correlate with a sign
 Resource Access: Analysis of how digital access (Internet) impacts the effectiveness of independent study hours.
 
 Repository Contents:
+
 DescriptionStudentPerformanceFactors.csv:The raw dataset used for the analysis.
 
 task3.pbix :The source file for the interactive dashboard.
